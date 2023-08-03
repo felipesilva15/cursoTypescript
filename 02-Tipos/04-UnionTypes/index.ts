@@ -1,0 +1,1 @@
+let anyValue: string | number = "Felipe";
